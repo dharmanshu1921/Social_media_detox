@@ -38,7 +38,3 @@ This project focuses on reducing toxicity in generated text by fine-tuning the *
 
 The integration of reinforcement learning with toxicity evaluation models proves to be an effective strategy for moderating hate speech in dialogue systems. This methodology holds potential for enhancing the safety and inclusivity of AI applications such as chatbots, virtual assistants, and content moderation platforms.
 
-## Authors
-
-- **Dharmanshu Singh** – BML Munjal University
-  - *Mentor*: **Prof. Manisha Saini**
